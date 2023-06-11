@@ -1,4 +1,4 @@
-package com.gonzalez.blanchard.sesion3ejemplojetpack.views
+package com.gonzalez.blanchard.sesion4listasjetpack.views
 
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxWidth

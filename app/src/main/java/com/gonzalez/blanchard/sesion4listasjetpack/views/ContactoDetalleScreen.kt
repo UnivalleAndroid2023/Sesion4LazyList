@@ -1,4 +1,4 @@
-package com.gonzalez.blanchard.sesion3ejemplojetpack.views
+package com.gonzalez.blanchard.sesion4listasjetpack.views
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
@@ -10,10 +10,10 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.tooling.preview.Preview
-import com.gonzalez.blanchard.sesion3ejemplojetpack.ui.theme.ColorFondo
+import com.gonzalez.blanchard.sesion4listasjetpack.ui.theme.ColorFondo
 
 @Composable
-fun MainScreen(){
+fun ContactoDetalleScreen(){
     Box(
         modifier = Modifier
             .fillMaxWidth()
@@ -40,7 +40,7 @@ fun MainScreen(){
 @Preview
 @Composable
 fun PreviewMainScreen(){
-    MainScreen()
+    ContactoDetalleScreen()
 }
 
 

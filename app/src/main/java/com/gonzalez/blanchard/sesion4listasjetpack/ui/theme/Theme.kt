@@ -1,4 +1,4 @@
-package com.gonzalez.blanchard.sesion3ejemplojetpack.ui.theme
+package com.gonzalez.blanchard.sesion4listasjetpack.ui.theme
 
 import android.app.Activity
 import android.os.Build

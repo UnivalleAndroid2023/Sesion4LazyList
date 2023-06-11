@@ -1,4 +1,4 @@
-package com.gonzalez.blanchard.sesion3ejemplojetpack
+package com.gonzalez.blanchard.sesion4listasjetpack
 
 import org.junit.Test
 
